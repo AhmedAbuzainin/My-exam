@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Midterm Exam</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+        h1, h2 { text-align: center; }
+        .question { margin-bottom: 20px; }
+        .answer { color: green; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Basic Midterm Exam</h1>
+    <h2>Mr. Ahmed Abuzainin</h2>
+
+    <div class="question">
+        <h3>Q1) Unscramble the sentences</h3>
+        <ol>
+            <li>My brother lives in Benghazi. <span class="answer">(Answer: My brother lives in Benghazi.)</span></li>
+            <li>They are thirsty. <span class="answer">(Answer: They are thirsty.)</span></li>
+            <li>The desk is red. <span class="answer">(Answer: The desk is red.)</span></li>
+            <li>We are students. <span class="answer">(Answer: We are students.)</span></li>
+            <li>He is my father. <span class="answer">(Answer: He is my father.)</span></li>
+        </ol>
+    </div>
+
+    <div class="question">
+        <h3>Q2) Complete the sentences with (They / He / She / It / We).</h3>
+        <ol>
+            <li>It is a table. <span class="answer">(Answer: It)</span></li>
+            <li>They are sad. <span class="answer">(Answer: They)</span></li>
+            <li>He is tall. <span class="answer">(Answer: He)</span></li>
+            <li>They are books. <span class="answer">(Answer: They)</span></li>
+            <li>He is a lawyer. <span class="answer">(Answer: He)</span></li>
+        </ol>
+    </div>
+
+    <div class="question">
+        <h3>Q3) Match. Complete the sentences.</h3>
+        <ol>
+            <li>We - c. are teachers. <span class="answer">(Answer: We - c)</span></li>
+            <li>She - e. is a woman. <span class="answer">(Answer: She - e)</span></li>
+            <li>I - d. am Sara. <span class="answer">(Answer: I - d)</span></li>
+            <li>It - f. is my last name. <span class="answer">(Answer: It - f)</span></li>
+            <li>He - a. is a father. <span class="answer">(Answer: He - a)</span></li>
+            <li>You - b. are a woman. <span class="answer">(Answer: You - b)</span></li>
+        </ol>
+    </div>
+
+    <div class="question">
+        <h3>Q4) Write the contracted form:</h3>
+        <ol>
+            <li>She is = She's <span class="answer">(Answer: She's)</span></li>
+            <li>He is = He's <span class="answer">(Answer: He's)</span></li>
+            <li>It is = It's <span class="answer">(Answer: It's)</span></li>
+            <li>They are = They're <span class="answer">(Answer: They're)</span></li>
+            <li>We are = We're <span class="answer">(Answer: We're)</span></li>
+        </ol>
+    </div>
+
+    <div class="question">
+        <h3>Q5) Match the questions with the answers.</h3>
+        <ol>
+            <li>How are you feeling? - B. I'm tired. <span class="answer">(Answer: B)</span></li>
+            <li>Where are you from? - C. I'm from Canada. <span class="answer">(Answer: C)</span></li>
+            <li>How is she feeling? - E. She's fine. <span class="answer">(Answer: E)</span></li>
+            <li>What's your name? - A. My name is Rana. <span class="answer">(Answer: A)</span></li>
+            <li>Where is he from? - D. He's from Korea. <span class="answer">(Answer: D)</span></li>
+        </ol>
+    </div>
+
+    <div class="question">
+        <h3>Q6) Change these sentences to negative form.</h3>
+        <ol>
+            <li>We are not smart. <span class="answer">(Answer: We are not smart.)</span></li>
+            <li>You are not sick. <span class="answer">(Answer: You are not sick.)</span></li>
+            <li>She is not fine. <span class="answer">(Answer: She is not fine.)</span></li>
+            <li>I am not excited. <span class="answer">(Answer: I am not excited.)</span></li>
+            <li>They are not children. <span class="answer">(Answer: They are not children.)</span></li>
+        </ol>
+    </div>
+</body>
+</html>
